@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freitas2u&show_icons=true&theme=tokyonight)
 
-Feel free to contact me via 
+Feel free to contact me.
 
 - 🔭 I’m currently working on BRK Ambiental as Functional Analyst
 - 🌱 I’m currently learning Python Fundamentals and Django
