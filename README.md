@@ -1,4 +1,4 @@
-<h2>Hi there! I'm Fernando Freitas 👋</h2>
+<h2>Hi there! I'm Freitas 👋</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freitas2u&show_icons=true&theme=tokyonight)
 
