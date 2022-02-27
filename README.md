@@ -7,7 +7,5 @@ Feel free to contact me via
 - 🔭 I’m currently working on BRK Ambiental as Functional Analyst
 - 🌱 I’m currently learning Python Fundamentals and Django
 - 💬 Ask me about anything
-- 📫 How to reach me: **<a href="mailto:ffsouza.quality@gmail.com">email</a>** or **[linkedin](https://www.linkedin.com/in/freitas2u)**.
-- **[@freitas.to](https://www.instagram.com/freitas.to)**.
+- 📫 How to reach me: **<a href="mailto:ffsouza.quality@gmail.com">email</a>**, **[linkedin](https://www.linkedin.com/in/freitas2u)** or **[@freitas.to](https://www.instagram.com/freitas.to)**
 - ⚡ Fun fact: I'm a 4fun Player of Yu-Gi-Oh! Card game
-
