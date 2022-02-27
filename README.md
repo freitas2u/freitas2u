@@ -1,6 +1,6 @@
 <h2>Hi there! I'm Freitas 👋</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freitas2u&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freitas2u&show_icons=true&theme=dracula)
 
 Feel free to contact me.
 
