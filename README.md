@@ -4,7 +4,7 @@
 
 Feel free to contact me.
 
-- 🔭 I’m currently working on BRK Ambiental as Functional Analyst
+- 🔭 I’m currently working on BRK Ambiental as Python Developer
 - 🌱 I’m currently learning Python Fundamentals and Django
 - 💬 Ask me about anything
 - 📫 How to reach me: **<a href="mailto:ffsouza.quality@gmail.com">E-mail</a>**, **[LinkedIn](https://www.linkedin.com/in/freitas2u)** or **[Instagram](https://www.instagram.com/freitas.to)**
